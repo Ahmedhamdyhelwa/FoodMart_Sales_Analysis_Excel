@@ -31,8 +31,7 @@ Tools Used
 - Slicers
 
 Dashboard Preview
-[![Dashboard Preview](images/dashboard_preview.png)
-](https://github.com/Ahmedhamdyhelwa/FoodMart_Sales_Analysis_Excel/blob/main/excel_dashboard/images/images.README.md)
+[![Dashboard Preview](images/dashboard.png)
 How to Use
 1. Download the Excel file from `excel_dashboard/`
 2. Enable editing and refresh Power Query connections
